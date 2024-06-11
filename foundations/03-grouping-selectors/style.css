@@ -1,0 +1,15 @@
+.click-button {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.no-click {
+    background-color: hwb(60 20% 0%);
+}
+
+.click-button,
+.no-click {
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
